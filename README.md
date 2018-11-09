@@ -16,6 +16,8 @@ As stated above, the main purpose is to provide simple examples for Git training
 
 Please see the documentation online.
 
+Please fork this repository and then issue Pull Request for review.
+
 ### Copyright
 
 2018 Git.Training
