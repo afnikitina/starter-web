@@ -15,3 +15,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 ## How to Contribute
 
 Please see the documentation online.
+
+### Copyright
+
+2018 Git.Training
